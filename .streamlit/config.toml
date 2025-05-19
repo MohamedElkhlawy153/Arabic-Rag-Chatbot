@@ -1,0 +1,20 @@
+[theme]
+primaryColor = "#3B82F6"
+backgroundColor = "#0F172A"
+secondaryBackgroundColor = "#1E293B"
+textColor = "#F8FAFC"
+font = "sans serif"
+
+[server]
+enableCORS = false
+enableXsrfProtection = true
+
+[browser]
+gatherUsageStats = false
+
+[ui]
+hideTopBar = true
+hideSidebarNav = true
+
+[client]
+showErrorDetails = false 
